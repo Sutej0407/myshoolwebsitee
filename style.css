@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 800 px;
+    text-align: center;
+
+    text-decoration-color: black;
+    text-align: center;
+    font-family: cursive;
+    font-weight: 800;
+
+}
+
+.profile {
+    width: 175 px;
+    margin-bottom: 50 px;
+    height: 175 px;
+
+
+}
+
+#welcom {
+    position: absolute;
+    height: 1000 px;
+    color: currentColor;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+
+}
+
+#name {
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: 'Cinzel Decorative', cursive;
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: monospace;
+
+}
+
+#bio {
+    padding: 50px;
+    text-align: center;
+    
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+     text-decoration-color: azure;
+}
+
+p {
+    max-width: 450px;
+    margin: 25px auto;
+    font-size: 17px;
+    line-height: 1.3;
+}
+
+links-hover {
+    background-color: white;
+     text-decoration-color: azure;
+    font-size: 10px;
+}
+
+.menue {
+    position: fixed;
+    width: 100%;
+   background-color: #222;
+    display: flex;
+    top: 0px;
+    margin-top: 0px;
+ text-decoration-color: darkgray; 
+    z-index: 10;
+     text-decoration-color: white;
+    border-radius: 3px;
+    border-color: linear-gradient(#9400D3, #8B008B);
+   
+}
+
+.parallax-inner {
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.links {
+    float: left;
+    color: #fff;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+  text-emphasis-color: aliceblue;
+    text-decoration-color: white;
+    background-size: ;
+    display: flex;
+    font-family: cursive;
+    text-decoration-color: azure;
+    
+ 
+}
+
+img {
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+    padding-right: 50px;
+       padding-left: 20px;
+  
+       
+    
+    
+   
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+.container {
+  
+    height: 1000px;
+
+
+} 
+#d{
+     padding: 50px;
+    text-align: center;
+    background: linear-gradient(#9400D3, #8B008B);
+} 
+
+#map iframe {
+width: 50%; 
+float: left;
+padding-top: 5px;
+}
+    
+
